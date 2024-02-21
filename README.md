@@ -1,0 +1,1 @@
+I have donloaded Bike sales Report dataset form the internet in Excel format where the data is uncleaned. Next the data was transformed into cleaned data for analyzing information , then Pivot tables were created basis on some factors on the report.After the Pivot tables creation,Dashboard was created on Bike Sales Report for better visualizaion.
